@@ -394,7 +394,6 @@ The prototype was developed in response to the Dark Pattern Tycoon Project Brief
 - McGarrigle et al. (2025). Dark Patterns in Online Gambling: A Scoping Review and Classification.
 - McGarrigle et al. (2026). Consent Banners, Dark Patterns, and GDPR Infringements in Online Gambling. Preprint.
 - OECD. (2022). Dark Commercial Patterns.
-- Dark Patterns Tycoon — Project Brief V2.0, University of Sydney project materials.
 
 # 22. Reproduction Notes
 
